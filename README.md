@@ -34,6 +34,6 @@ python manage.py runserver
 * Dlib
 
 ## Credits
-This Project is created under the Guidance of Dr. Yuting Zhang (Director, Cybersecurity), Boston University
+This Project is created by 0701Coder | Vasanth
 
 
